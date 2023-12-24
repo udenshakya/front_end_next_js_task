@@ -39,8 +39,9 @@ Once you have completed the assignment, share the repository URL with us via the
 Join this discord server to get an update: Join Here
  
 Submission Deadline: Task Submission: 2023/12/27 02:30 PM
-Link: https://forms.gle/AuFqnzW32uEzEaAr8
 Check out the discussion section of this repo to ask any related queries or doubts.
+Link: https://forms.gle/AuFqnzW32uEzEaAr8
+
  
 Note: The assignment is intentionally challenging so do your best ;) . Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
 
