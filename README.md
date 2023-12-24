@@ -1,9 +1,10 @@
-# front_end_next_js_taskAssignment Title: E-commerce Development Task
+
 Assignment Description:
+
 In this assignment, you will create a basic e-commerce application using Next.js. You'll apply key Next concepts and fundamental web development skills. Your task is to develop a multi-page web application named "OnlineStore" that allows users to browse and search for products.
  
-Instructions:
-Fork the provided project repository to your profile and clone it to your machine to begin the project.
+**Instructions:
+**Fork the provided project repository to your profile and clone it to your machine to begin the project.
 Design and implement a web application named "OnlineStore" that allows users to browse and search for products.
 The application should have the following pages:
 Home Page: Display a list of products with their images, names, and prices. Fetch the list from the provided API endpoint.
@@ -19,6 +20,7 @@ Use of global state management with Redux toolkit, Recoil or any other state man
 Write clean, maintainable, and well-documented code.
 Use Git for version control, committing your code regularly to the forked Git repository in your profile.
 Deploy the application to a hosting platform (e.g., Vercel, Netlify) and provide a live demo URL in your repo and the submission form.
+
 Bonus Points:
 Implement a responsive UI to improve user experience on mobile devices.
 Handle loading and error states during data fetching.
@@ -40,3 +42,5 @@ Submission Deadline: Task Submission: 2023/09/3 02:30 PM
 Check out the discussion section of this repo to ask any related queries or doubts.
  
 Note: The assignment is intentionally challenging so do your best ;) . Don't hesitate to ask for any clarifications in the discussion section of this repo. Good luck with your assignment!
+
+
